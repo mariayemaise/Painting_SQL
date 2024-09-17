@@ -25,4 +25,4 @@ subject: Stores the subjects depicted in each artwork.
 
 work: Information about individual artworks, including titles, artists, and associated museums.
 
-Link to dataset: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTR2WGtjcThqMUtkM1JDVTkyZkZINFhQTGt5UXxBQ3Jtc0tuZlc2N2o4aTBZbThkYUo4SHdOLXFTa19SQTA5VFpCNnZlZW1iSXpSdUlkT2tweDRBZ0JnV3U2aFZIY092X2FLbUxRTDh1d3ZEaHF0NFZzU0RVZTVxb1FRNWdoX2RPM0pvMU5Gb0lLYmhNRXkwUVpJWQ&q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fmexwell%2Ffamous-paintings&v=AZ29DXaJ1Ts
+Link to dataset: https://www.kaggle.com/datasets/mexwell/famous-paintings
